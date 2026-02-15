@@ -1,0 +1,5 @@
+This project presents an Excel-based fixed income financial modeling framework designed to evaluate the valuation, cash-flow structure, and interest rate risk of fixed income securities. It applies fundamental concepts such as time value of money, discounted cash-flow analysis, annuity valuation, bond pricing, yield measurement, and duration analysis to demonstrate how fixed income instruments are priced and how their values respond to changes in interest rates.
+
+The model is structured to translate theoretical fixed income principles into practical financial analysis, enabling clear assessment of pricing accuracy, yield behavior, and sensitivity to market rate movements. By integrating valuation techniques with risk measurement tools, the project provides a decision-oriented framework useful for academic learning, portfolio evaluation, and real-world fixed income investment analysis.
+
+Overall, this repository showcases applied financial modeling skills in Excel and highlights the analytical approach required for roles in financial analysis, risk management, treasury, and investment research.
